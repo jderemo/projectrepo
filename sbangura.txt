@@ -1,2 +1,0 @@
-solomon hello test test
-git branching git first push branch commit branch push
