@@ -23,4 +23,4 @@ t4545
 5asd5qw4
 dqw4
 qw5t5e
-4tww
+4twwgit push -u origin <new-branch-name>
